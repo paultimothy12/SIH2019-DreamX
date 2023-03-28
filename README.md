@@ -1,4 +1,4 @@
-# SIH2019-DreamX
+# SIH2019 - Finalist - DreamX
 Smart India Hackathon - 2019 - Software Edition - Ministry of Power. 
 Location: JECRC University, Rajasthan.
 
